@@ -1,0 +1,53 @@
+[
+    {
+      "id": "987654321",
+      "cover": "https://i.ibb.co/BjfZLMg/social-media-networking-online-communication-connect-concept.jpg",
+      "title": "The Enigmatic Castle",
+      "author": "Evelyn Nightingale",
+      "author_img": "https://i.ibb.co/cDmbzXs/pexels-italo-melo-2379004.jpg",
+      "post_date": "2024-03-15",
+      "reading_time": 12,
+      "hashtags": ["mystery", "adventure", "fiction"]
+    },
+    {
+      "id": "123456789",
+      "cover": "https://i.ibb.co/JcMZCxt/create-your-own-brand-words-woman-working-laptop-background.jpg",
+      "title": "Echoes of Eternity",
+      "author": "Maxwell Silver",
+      "author_img": "https://i.ibb.co/3m8LNtf/pexels-sindre-fs-1040880.jpg",
+      "post_date": "2024-03-16",
+      "reading_time": 18,
+      "hashtags": ["science fiction", "time travel", "philosophy"]
+    },
+    {
+      "id": "456789123",
+      "cover": "https://i.ibb.co/x1qgZ01/close-up-yellow-pills-stethoscope-keyboard-white-background.jpg",
+      "title": "Whispers in the Wind",
+      "author": "Ava Stardust",
+      "author_img": "https://i.ibb.co/8M4MRVL/pexels-andrea-piacquadio-943084.jpg",
+      "post_date": "2024-03-14",
+      "reading_time": 10,
+      "hashtags": ["romance", "fantasy", "poetry"]
+    },
+    {
+      "id": "789123456",
+      "cover": "https://i.ibb.co/R9Dz06k/desk-office.jpg",
+      "title": "Secrets of the Deep",
+      "author": "Xander Phoenix",
+      "author_img": "https://i.ibb.co/WnP3wsQ/pexels-chloe-1043471.jpg",
+      "post_date": "2024-03-17",
+      "reading_time": 15,
+      "hashtags": ["mystery", "adventure", "marine"]
+    },
+    {
+      "id": "321654987",
+      "cover": "https://i.ibb.co/q79wCfG/plate-yellow-white-pills-with-cutlery-green-backdrop.jpg",
+      "title": "Lost in Time",
+      "author": "Serena Moonlight",
+      "author_img": "https://i.ibb.co/9Zf6M9r/young-japanese-influencer-recording-vlog.jpg",
+      "post_date": "2024-03-13",
+      "reading_time": 20,
+      "hashtags": ["science fiction", "time travel", "history"]
+    }
+  ]
+  
