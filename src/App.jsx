@@ -5,13 +5,16 @@ import Blogs from './Components/Blogs/Blogs'
 import BookMarks from './Components/BookMarks/BookMarks'
 
 function App() {
-  const [count, setCount] = useState(0)
+  const [bookmarks, setBookmarks] = useState(0);
 
+  const handleAddToBookmark = blog => {
+    console.log('click on bookmark');
+  }
   return (
     <>
       <Header></Header>
       <main className='md:flex'>
-      <Blogs></Blogs>
+      <Blogs handleAddToBookmark={handleAddToBookmark}></Blogs>
       <BookMarks></BookMarks>
       </main>
     </>
